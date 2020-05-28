@@ -1,3 +1,5 @@
+<h2>Timeline of Chinese astronomy </h2>
+
 <ul>
 <li>2137 BC - October 22, Chinese book&nbsp;<a class="mw-redirect" title="Classic of History" href="https://en.wikipedia.org/wiki/Classic_of_History">Classic of History</a>; records the earliest known&nbsp;<a title="Solar eclipse" href="https://en.wikipedia.org/wiki/Solar_eclipse">solar eclipse</a>.</li>
 <li>c. 2000 BC - Chinese determine that&nbsp;<a title="Jupiter" href="https://en.wikipedia.org/wiki/Jupiter">Jupiter</a>&nbsp;needs 12 years to complete one revolution of its orbit.</li>
