@@ -22,65 +22,65 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(1).pdf" style="text-decoration:none;">Environmental Change and Human Development: Controlling Nature?</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(1).pdf" style="text-decoration:none;">The Issue with Chinese Astronomy</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(2).pdf" style="text-decoration:none;">Principles of Human Evolution</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(2).pdf" style="text-decoration:none;">The Scientific Revolution Revisited</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(3).pdf" style="text-decoration:none;">Evolution and human behavior: Darwinian perspectives on hutmn nature</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(4).pdf" style="text-decoration:none;">The Story of Life in 25 Fossils: Tales of Intrepid Fossil Hunters and the Wonders of Evolution</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(5).pdf" style="text-decoration:none;">The Cambridge Dictionary of Human Biology and Evolution</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(6).pdf" style="text-decoration:none;">The Tell-Tale Brain: A Neuroscientist's Quest for What Makes Us Human</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(7).pdf" style="text-decoration:none;">Human Evolution: An Illustrated Introduction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(3).pdf" style="text-decoration:none;">An Introduction to the Modern Chinese Science of Military Supraplanning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(4).pdf" style="text-decoration:none;">A History of Chinese Mathematics</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(5).pdf" style="text-decoration:none;">A History of Chinese Science and Technology: Volume 1</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(6).pdf" style="text-decoration:none;">A History of Chinese Science and Technology: Volume 2</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(7).pdf" style="text-decoration:none;">A History of Chinese Science and Technology: Volume 3</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(8).pdf" style="text-decoration:none;"> Apes and Human Evolution </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(9).pdf" style="text-decoration:none;">Human Evolution</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(8).pdf" style="text-decoration:none;">Astronomy and Calendars – The Other Chinese Mathematics </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(9).pdf" style="text-decoration:none;">Aristotle in China: Language, Categories and Translation</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(10).pdf" style="text-decoration:none;">Human, All Too Human II and Unpublished Fragments from the Period of Human) All Too Human 11 (Spring I 878-Fall I 879) </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(11).pdf" style="text-decoration:none;">How Language Began: Gesture and Speech in Human Evolution</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(12).pdf" style="text-decoration:none;">The Rise of Homo sapiens: The Evolution of Modern Thinking</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(13).pdf" style="text-decoration:none;">Ancestors in Our Genome: The New Science of Human Evolution</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(10).pdf" style="text-decoration:none;">Broken Stars: Contemporary Chinese Science Fiction in Translation </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(11).pdf" style="text-decoration:none;"> Chinese Medicine — Modern Practice</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(12).pdf" style="text-decoration:none;">Chinese Science Education in the 21st Century: Policy, Practice, and Research</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(13).pdf" style="text-decoration:none;">Chinese Water Systems, Volume 3: Poyang Lake Basin </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(14).pdf" style="text-decoration:none;">Pleiadian Perspectives on Human Evolution</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(14).pdf" style="text-decoration:none;">Early Chinese Work in Natural Science: A Re~examination of the Physics of Motion, Acoustics, Astronomy and Scientific Thoughts</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(15).pdf" style="text-decoration:none;">The story of the human body : evolution, health, and disease</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(15).pdf" style="text-decoration:none;">Foundations of Chinese Psychology: Confucian Social Relations</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(16).pdf" style="text-decoration:none;">The First Humans - Origin and Early Evolution of the Genus Homo</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(16).pdf" style="text-decoration:none;">Granting the Seasons: The Chinese Astronomical Reform of 1280, With a Study of its Many Dimensions and a Translation of its Records</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(17).pdf" style="text-decoration:none;">Up from Eden: A Transpersonal View of Human Evolution</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(17).pdf" style="text-decoration:none;">TAOISM: The Quest For Immortality</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(18).pdf" style="text-decoration:none;">Human Gene Evolution</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(18).pdf" style="text-decoration:none;">LOST DISCOVERIES: The Ancient Roots of Modern Science — from the Babylonians to tne Maya</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(19).pdf" style="text-decoration:none;">Why Only Us: Language and Evolution</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(19).pdf" style="text-decoration:none;">Mobility, Migration and the Chinese Scientific Research System</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(20).pdf" style="text-decoration:none;">Human Evolution: A Very Short Introduction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(20).pdf" style="text-decoration:none;">Narrative of Chinese and Western Popular Fiction</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(21).pdf" style="text-decoration:none;">Evolution's Arrow: the direction of evolution and the future of humanity </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(22).pdf" style="text-decoration:none;">Encyclopedia of Human Evolution and Prehistory</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(23).pdf" style="text-decoration:none;">The Science of Self-Empowerment: Awakening the New Human Story</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(21).pdf" style="text-decoration:none;">New Essays in Chinese Philosophy </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(22).pdf" style="text-decoration:none;">On Their Own Terms Science in China, 1550–1900</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(23).pdf" style="text-decoration:none;">Peptides: Biology and Chemistry</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(24).pdf" style="text-decoration:none;">The Evolution of Adam: What the Bible Does and Doesn't Say about Human Origins</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(24).pdf" style="text-decoration:none;">Science and Technology in China - A Roadmap to 2050: Strategic General Report of the Chinese Academy of Sciences</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(25).pdf" style="text-decoration:none;">Paleontology and Geology of Laetoli: Human Evolution in Context</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(26).pdf" style="text-decoration:none;">The Evolution of Desire: Strategies of Human Mating</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(27).pdf" style="text-decoration:none;">The Evolution of Sexuality</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(25).pdf" style="text-decoration:none;">Science and Civilisation in China: Volume 5</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(26).pdf" style="text-decoration:none;">The Calendar: The 5000 Year Struggle to Align the Clock and the Heavens and What Happened to the Missing Ten Days</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(27).pdf" style="text-decoration:none;">The Discovery of Chinese Logic</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(28).rar" style="text-decoration:none;">Evolution for Everyone: How Darwin's Theory Can Change the Way We Think About Our Lives</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(28).pdf" style="text-decoration:none;">The Interfaces of Chinese Syntax with Semantics and Pragmatics</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(29).pdf" style="text-decoration:none;">Human Evolution: Genes, Genealogies and Phylogenies</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(29).pdf" style="text-decoration:none;">The Oxford Handbook of Chinese Linguistics</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(30).pdf" style="text-decoration:none;">Leonardo's Foot: How 10 Toes, 52 Bones, and 66 Muscles Shaped the Human World</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(30).pdf" style="text-decoration:none;">The Principles of Astronomical Telescope Design</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(31).pdf" style="text-decoration:none;">Mate Choice: The Evolution of Sexual Decision Making from Microbes to Humans</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(32).pdf" style="text-decoration:none;">Relics of Eden: The Powerful Evidence of Evolution in Human DNA</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(31).pdf" style="text-decoration:none;">The Structure and Infrastructure of Chinese Science and Technology</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(32).pdf" style="text-decoration:none;">The Theory of Chinese Medicine: A Modern Explanation</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(33).pdf" style="text-decoration:none;">Rethinking Human Evolution</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(33).pdf" style="text-decoration:none;">Thought Experiments in Methodological and Historical Contexts</a></li>
 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(34).pdf" style="text-decoration:none;">Stone Tools and the Evolution of Human Cognition</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Chinese-astronomy/blob/master/chin(34).pdf" style="text-decoration:none;">Selected Papers of K C Chou</a></li>
  
    
 
